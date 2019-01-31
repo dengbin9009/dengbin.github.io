@@ -1,7 +1,7 @@
 # Site
 title:              Deng Bin
 bio:                'The ramble on the mind is not as carefree as the first step.'
-description:        "My fate is in my hands."
+description:        "My fate is in my hands!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         dengbin9009
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -55,7 +55,7 @@ github-url:         username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:             3206442930
 #flickr:            username
 #codepen:           username
 #keybase:           username
